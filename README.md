@@ -1,0 +1,2 @@
+# vite-inertia-vue-laravel-demo
+ This public repository showcases a demo project integrating Vite.js, Inertia.js with Vue.js, and Laravel. The project demonstrates the use of Vite for frontend development, Inertia.js for seamless server-side rendering with Vue.js components, and Laravel for backend functionality. Explore the power of these technologies working together to build modern web applications efficiently. Feel free to clone, explore, and contribute to this demo project to enhance your understanding of Vite, Inertia, Vue, and Laravel integration in web development.
